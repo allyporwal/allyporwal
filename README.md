@@ -42,3 +42,28 @@
 
 <hr>
 
+### About me:
+
+- Hard, persistent worker; I don't like giving up on things I know I can solve
+- Enjoys problem solving
+- Self-motivated
+- Good listener
+- Punctual
+- Always want to be progressing and learning - I don't like being stagnant in any area of life
+
+<hr>
+
+### My most recent projet:
+
+Overreach - a project done for my Code Institute diploma. It is for users to track workouts and see other users' workouts, profiles and keep tabs on key training metrics.
+
+The app is built in Django and is something I'm keen to keep developing because building it was such a good learning experience.
+
+Here's the deployed app - [Overreach](https://overreach.herokuapp.com/)
+
+And here's the repo - [Overreach repo](https://github.com/allyporwal/overreach-django)
+
+You can log in on the deployed app and have a look around, log some workouts and see some other test user data with the following credentials:
+
+- username: im_from_linkedin
+- password: fromsocial
