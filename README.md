@@ -28,7 +28,7 @@
 
 <br>
 
-![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=2.7&color=61dafb&logo=React)
+![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=17.0&color=61dafb&logo=React)
 
 ### Frameworks and libraries I've used:
 
