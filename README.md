@@ -24,12 +24,11 @@
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)
 ![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)
 
-### Languages I'm just starting to learn:
+### What I'm just starting to learn:
 
 <br>
 
-![Ruby](https://img.shields.io/static/v1?label=Ruby&style=for-the-badge&message=2.7&color=CC342D&logo=Ruby)
-![PHP](https://img.shields.io/static/v1?label=PHP&style=for-the-badge&message=8&color=8892BF&logo=PHP)
+![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=2.7&color=61dafb&logo=React)
 
 ### Frameworks and libraries I've used:
 
