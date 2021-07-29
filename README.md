@@ -4,9 +4,9 @@
 
 ### In a nutshell:
 
-- Just about to make the leap to full-stack developer after nearly 9 years as a self-employed personal trainer 🏋🏼
-- As of **11/05/2021** I'm sadly closing down my personal training business and actively hunting for my first junior developer role 💻
-- Just completed the [Code Institute Diploma](https://codeinstitute.net/full-stack-software-development-diploma/) in full-stack software development and awaiting my final grade 🤞🏼
+- Just about to make the leap into tech after nearly 9 years as a self-employed personal trainer 🏋🏼
+- As of **11/05/2021** I'm sadly closing down my personal training business and actively hunting for my first junior software developer/engineer role 💻
+- Just completed the [Code Institute Diploma](https://codeinstitute.net/full-stack-software-development-diploma/) in full-stack software development and [passed with distinction](https://www.credential.net/af282b62-a7d9-4edc-ac51-81b3b32a2254#gs.7o3jpv) 👍
 - Why did I want to make the switch to software development? Four main reasons:
     * I'd planned on finishing personal training by some time in 2022 but the Covid-19 pandemic forced me to close
     * A new challenge! I enjoy pushing myself and learning new things; software development offered me a terrific challenge and I look forward to continually learning more in this field
